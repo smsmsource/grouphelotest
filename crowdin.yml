@@ -1,0 +1,3 @@
+files:
+  - source: TechnoRobot/localization/en.yaml 
+    translation: /**/TechnoRobot/localization/%locale_with_underscore%.yaml
