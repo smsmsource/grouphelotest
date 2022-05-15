@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+  <img src="https://telegra.ph/file/c9be9d4dd83cfbbe5d473.jpg">
 </p>
 
 # Techno Group BoT
