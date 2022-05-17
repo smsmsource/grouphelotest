@@ -6,7 +6,6 @@ beautifulsoup4
 requests
 python-telegram-bot==12.8
 sqlalchemy==1.3.23
-PyDictionary
 psycopg2-binary
 feedparser
 hachoir
@@ -16,6 +15,7 @@ zalgo-text
 geopy
 nltk
 psutil
+aiofiles
 aiohttp>=2.2.5
 Pillow
 CurrencyConverter
@@ -30,8 +30,11 @@ git+https://github.com/starry69/python-markdown2.git
 wikipedia
 telethon
 telegraph
+fontTools
+odmantic
+loguru
+youtube_search_python
 heroku3
-nekos.py
 spamwatch
 alphabet_detector
 pyrate-limiter
@@ -56,6 +59,5 @@ opencv-python-headless
 bing_image_downloader
 search_engine_parser
 pytz
-pykeyboard
-aiofiles
 motor
+cloudscraper
