@@ -12,6 +12,7 @@ hachoir
 pynewtonmath
 spongemock
 zalgo-text
+gtts
 geopy
 nltk
 psutil
